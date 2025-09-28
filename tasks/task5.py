@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    text = input("Введите фразу: ")
+    text = input()
     print(text, end=' - Сказала Гермиона!')
 
    
